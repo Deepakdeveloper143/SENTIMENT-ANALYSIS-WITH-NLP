@@ -31,9 +31,10 @@ As an optional enhancement, Principal Component Analysis (PCA) is used to reduce
 In conclusion, this project effectively demonstrates how classic NLP techniques and machine learning can be combined to analyze customer opinions. The use of TF-IDF provides a meaningful way to represent text data, while logistic regression offers a transparent and efficient method for sentiment classification. This model can serve as a foundation for more advanced applications, such as real-time sentiment monitoring or customer feedback analysis in business environments.
 
 **Output
-   
 
+         ![Image](https://github.com/user-attachments/assets/a873e479-6a64-4f4c-877d-6c069f919f64)
 
+      
 
 
 
