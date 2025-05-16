@@ -32,7 +32,7 @@ In conclusion, this project effectively demonstrates how classic NLP techniques 
 
 **Output
 
-         ![Image](https://github.com/user-attachments/assets/a873e479-6a64-4f4c-877d-6c069f919f64)
+              ![Image](https://github.com/user-attachments/assets/a873e479-6a64-4f4c-877d-6c069f919f64)
 
       
 
