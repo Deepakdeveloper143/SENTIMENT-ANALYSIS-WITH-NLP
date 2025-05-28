@@ -33,7 +33,7 @@ In conclusion, this project effectively demonstrates how classic NLP techniques 
 **Output
 ![Image](https://github.com/user-attachments/assets/fc26fb28-7736-49c7-8953-731b49a07586)
 
-  ****OUTPUT  
+  ****Deployment model 
      https://singular-arithmetic-eee881.netlify.app/
 
       
